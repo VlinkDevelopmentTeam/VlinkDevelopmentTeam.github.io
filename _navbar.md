@@ -1,0 +1,3 @@
+- Translations
+  - [:us: en-us](/)
+  - [:vn: vi-vn](/)
